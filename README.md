@@ -1,3 +1,3 @@
-# Template SCSS/TypeScript
+# template-scss-ts
 
-Template for my future projects with SCSS and TypeScript.
+Project template with SCSS and TypeScript
